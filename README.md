@@ -6,6 +6,8 @@ W.Avy is looking to open a surf and ice cream shop in Oahu and wants more insigh
 ## Results
 The data used in our analysis was sourced from 9 different weather stations. The results below is our statistical summary of temperatures in Oahu during the months of June & December of 2016 & 2017. All temperatures were recorded as fahrenheit. 
 
+December data is on the right & June data is on the left
+
 * Average temperatures during June & December are similar with averages hovering around 71-74 degrees.
 * Lowest temperature for December was recorded at 56 degrees. Highest temperature for December was recorded at 83 degrees.
 * Lowest temperature recored for June was recored at 64 degrees. Highest temperature for June was recorded at 85 degrees.
